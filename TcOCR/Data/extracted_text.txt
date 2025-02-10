@@ -1,0 +1,24 @@
+Fichier : o1.jpg
+Texte extrait : 10.00
+
+Fichier : o2.jpg
+Texte extrait : ITEM
+
+Fichier : o3.jpg
+Texte extrait : TH
+
+Fichier : o4.jpg
+Texte extrait : AM
+
+Fichier : o5.jpg
+Texte extrait : AM
+
+Fichier : o6.jpg
+Texte extrait : OM
+
+Fichier : o7.jpg
+Texte extrait : TH
+
+Fichier : o8.jpg
+Texte extrait : ITEM
+
